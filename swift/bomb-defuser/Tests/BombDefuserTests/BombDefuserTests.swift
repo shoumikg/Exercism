@@ -3,7 +3,7 @@ import XCTest
 @testable import BombDefuser
 
 final class BombDefuserTests: XCTestCase {
-  let runAll = Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
+  let runAll = true//Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
   let stringify = { (tuple: (String, String, String)) in "\(tuple)" }
 
   func testFlip() {
