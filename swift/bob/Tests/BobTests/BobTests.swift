@@ -3,7 +3,7 @@ import XCTest
 @testable import Bob
 
 class BobTests: XCTestCase {
-  let runAll = Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
+  let runAll = true//Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
 
   func testStatingSomething() {
     XCTAssertEqual("Whatever.", Bob.response("Tom-ay-to, tom-aaaah-to."))

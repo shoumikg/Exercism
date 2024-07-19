@@ -1,0 +1,28 @@
+{
+  "authors": [
+    "hankturowski"
+  ],
+  "contributors": [
+    "bhargavg",
+    "edasque",
+    "harquail",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Etl/Etl.swift"
+    ],
+    "test": [
+      "Tests/EtlTests/EtlTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Etl/EtlExample.swift"
+    ]
+  },
+  "blurb": "Change the data format for scoring a game to more easily add other languages.",
+  "source": "Based on an exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
+  "source_url": "https://turing.edu"
+}

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6BA255AB-0223-4D7F-B97B-2CDA12F48D0F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8087353D-B23C-4AC8-8A35-EA379E1FA799"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "response(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8087353D-B23C-4AC8-8A35-EA379E1FA799 - add134f7a9b02097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "8087353D-B23C-4AC8-8A35-EA379E1FA799 - add134f7a9b02097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F40FEC37-8FF1-474C-8E53-24EF067226A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "response(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F40FEC37-8FF1-474C-8E53-24EF067226A2 - add134f7a9b02055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "F40FEC37-8FF1-474C-8E53-24EF067226A2 - add134f7a9b02055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F52215-A147-4482-89EA-365FA30CF3C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "response(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8F52215-A147-4482-89EA-365FA30CF3C0 - add134f7a9b01ff2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "B8F52215-A147-4482-89EA-365FA30CF3C0 - add134f7a9b01fd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29F5BD76-A031-4424-9CB9-75FC120F3CE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "response(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29F5BD76-A031-4424-9CB9-75FC120F3CE5 - add134f7a9b01fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "29F5BD76-A031-4424-9CB9-75FC120F3CE5 - add134f7a9b01f8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7189ED61-513E-4557-A40E-3E03ABFCD1D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Bob/Bob.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "response(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7189ED61-513E-4557-A40E-3E03ABFCD1D1 - add134f7a9b01ec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "7189ED61-513E-4557-A40E-3E03ABFCD1D1 - add134f7a9b01ec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Bob.Bob.response(Swift.String) -&gt; Swift.String"
+                  moduleName = "BobTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/bob/Sources/Bob/Bob.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
