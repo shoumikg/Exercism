@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E921D29E-DF84-4816-A55C-FD5B758CB4FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1773C89-8B14-4BD4-A8EB-9F2F7A6E06B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "subtract(minutes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7085C37E-2BBA-48CC-8F56-430213C6A787"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "init(hours:minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7085C37E-2BBA-48CC-8F56-430213C6A787 - aaffaa984c6d56c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7085C37E-2BBA-48CC-8F56-430213C6A787 - aaffaa984c6d56c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D768720-5060-4193-99A8-597B86D65F0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "init(hours:minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D768720-5060-4193-99A8-597B86D65F0E - aaffaa984c6d5698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "8D768720-5060-4193-99A8-597B86D65F0E - aaffaa984c6d5698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A395CD-59A2-47F5-B1D3-505A0A0B8226"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "init(hours:minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87A395CD-59A2-47F5-B1D3-505A0A0B8226 - aaffaa984c6d56b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "87A395CD-59A2-47F5-B1D3-505A0A0B8226 - aaffaa984c6d56b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF0733A7-61C3-453B-BEA5-8DE0565F11C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "init(hours:minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF0733A7-61C3-453B-BEA5-8DE0565F11C7 - aaffaa984c6d555a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1256">
+               </Location>
+               <Location
+                  uuid = "BF0733A7-61C3-453B-BEA5-8DE0565F11C7 - aaffaa984c6d555a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39168132-5A2C-42CF-96BD-12B06FA1F6FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Clock/Clock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "init(hours:minutes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39168132-5A2C-42CF-96BD-12B06FA1F6FF - aaffaa984c6d557b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+               <Location
+                  uuid = "39168132-5A2C-42CF-96BD-12B06FA1F6FF - aaffaa984c6d557b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Clock.Clock.init(hours: Swift.Int, minutes: Swift.Int) -&gt; Clock.Clock"
+                  moduleName = "ClockTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/clock/Sources/Clock/Clock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
