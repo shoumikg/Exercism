@@ -3,7 +3,7 @@ import XCTest
 @testable import Etl
 
 class EtlTests: XCTestCase {
-  let runAll = Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
+  let runAll = true//Bool(ProcessInfo.processInfo.environment["RUNALL", default: "false"]) ?? false
 
   func testSingleLetter() {
     let legacy = ["1": ["A"]]

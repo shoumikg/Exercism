@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "hankturowski"
+  ],
+  "contributors": [
+    "anukhov",
+    "bhargavg",
+    "harquail",
+    "hobbitjoe",
+    "kytrinyx",
+    "lyuha",
+    "masters3d",
+    "robtimp",
+    "ThomasHaz",
+    "yurrriq"
+  ],
+  "files": {
+    "solution": [
+      "Sources/GradeSchool/GradeSchool.swift"
+    ],
+    "test": [
+      "Tests/GradeSchoolTests/GradeSchoolTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/GradeSchool/GradeSchoolExample.swift"
+    ]
+  },
+  "blurb": "Given students' names along with the grade that they are in, create a roster for the school.",
+  "source": "A pairing session with Phil Battos at gSchool"
+}
