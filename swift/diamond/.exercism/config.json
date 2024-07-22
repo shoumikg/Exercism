@@ -1,0 +1,26 @@
+{
+  "authors": [
+    "robtimp"
+  ],
+  "contributors": [
+    "bcylin",
+    "bhargavg",
+    "kytrinyx",
+    "masters3d",
+    "ThomasHaz"
+  ],
+  "files": {
+    "solution": [
+      "Sources/Diamond/Diamond.swift"
+    ],
+    "test": [
+      "Tests/DiamondTests/DiamondTests.swift"
+    ],
+    "example": [
+      ".meta/Sources/Diamond/DiamondExample.swift"
+    ]
+  },
+  "blurb": "Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point.",
+  "source": "Seb Rose",
+  "source_url": "https://web.archive.org/web/20220807163751/http://claysnow.co.uk/recycling-tests-in-tdd/"
+}
