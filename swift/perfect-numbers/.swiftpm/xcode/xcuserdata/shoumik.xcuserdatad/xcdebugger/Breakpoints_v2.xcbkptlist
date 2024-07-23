@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "237C8082-1573-48FC-9E38-24F71227A4C1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/PerfectNumbers/PerfectNumbers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "classify(number:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F - 4c5a2ec169446986"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F - 4c5a2ec169446986"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F - 4c5a2ec1694469a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F - 4c5a2ec1694469a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "784F13CC-6345-49D7-9B38-09717FA06B0F - 4c5a2ec1694469a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D75CDB5-EDF2-42F4-9721-25B7E56E6240"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/PerfectNumbers/PerfectNumbers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "classify(number:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4D75CDB5-EDF2-42F4-9721-25B7E56E6240 - 4c5a2ec169446e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1768">
+               </Location>
+               <Location
+                  uuid = "4D75CDB5-EDF2-42F4-9721-25B7E56E6240 - 4c5a2ec169446e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E80B56-E05C-423B-B2D8-7285BE3FCEC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/PerfectNumbers/PerfectNumbers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "classify(number:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "30E80B56-E05C-423B-B2D8-7285BE3FCEC0 - 4c5a2ec169446f96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  uuid = "30E80B56-E05C-423B-B2D8-7285BE3FCEC0 - 4c5a2ec169446f96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB1EF3F1-A6A1-4DF2-A81E-24B74C2920FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/PerfectNumbers/PerfectNumbers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "classify(number:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "BB1EF3F1-A6A1-4DF2-A81E-24B74C2920FB - 4c5a2ec169446f73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1952">
+               </Location>
+               <Location
+                  uuid = "BB1EF3F1-A6A1-4DF2-A81E-24B74C2920FB - 4c5a2ec169446f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2130910A-7492-4530-9F05-1C25CC4FAAAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/PerfectNumbers/PerfectNumbers.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "classify(number:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2130910A-7492-4530-9F05-1C25CC4FAAAA - 4c5a2ec169446f3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "2116">
+               </Location>
+               <Location
+                  uuid = "2130910A-7492-4530-9F05-1C25CC4FAAAA - 4c5a2ec169446f12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PerfectNumbers.classify(number: Swift.Int) throws -&gt; PerfectNumbers.Classification"
+                  moduleName = "PerfectNumbersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/perfect-numbers/Sources/PerfectNumbers/PerfectNumbers.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1948">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
