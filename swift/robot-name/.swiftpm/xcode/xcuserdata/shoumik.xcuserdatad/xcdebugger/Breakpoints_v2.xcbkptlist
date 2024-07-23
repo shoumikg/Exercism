@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00AE8815-4FD2-48DF-BF52-B6278AAE2C87"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B75E3FD-DCE9-4450-8B46-1206462CB30E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/RobotName/RobotName.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B75E3FD-DCE9-4450-8B46-1206462CB30E - bba2e462b2af4aff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RobotName.Robot.init() -&gt; RobotName.Robot"
+                  moduleName = "RobotNameTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/robot-name/Sources/RobotName/RobotName.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "1956">
+               </Location>
+               <Location
+                  uuid = "3B75E3FD-DCE9-4450-8B46-1206462CB30E - bba2e462b2af4aff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RobotName.Robot.init() -&gt; RobotName.Robot"
+                  moduleName = "RobotNameTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/robot-name/Sources/RobotName/RobotName.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "3B75E3FD-DCE9-4450-8B46-1206462CB30E - bba2e462b2af4aff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RobotName.Robot.init() -&gt; RobotName.Robot"
+                  moduleName = "RobotNameTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shoumik/Exercism/swift/robot-name/Sources/RobotName/RobotName.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D24089B-E56A-4010-B9AA-48EA1D2D73A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tests/RobotNameTests/RobotNameTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testHasName()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
